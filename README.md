@@ -23,8 +23,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/thien34"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thien34" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thien34&" alt="thien34" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thien34&show_icons=true&locale=en&layout=compact" alt="thien34" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&locale=en" alt="thien34" /></p>
