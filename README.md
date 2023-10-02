@@ -31,4 +31,10 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&locale=en" alt="thien34" /></p>
 
+<br>
+<h2 align="center">📑 My Favorites Quote 📑</h2>
+<br>
+<a href="#" target="_blank">
+  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="thien34" />
+</a>
 
