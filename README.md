@@ -3,12 +3,15 @@
 <p align="center">
   <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
 </p>
-- ✍ I'm a middle software developer at [VietNam]
-<br>
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thien34&label=Profile%20views&color=0e75b6&style=flat" alt="thien34" /> </p>
+
+- ✍ I'm a middle software developer at **[Vietnam]**
+- 🌱 Currently learning **Cloud Computing & System Design**
+- ⚡ Fun fact: I love solving puzzles and coding challenges.
 
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thien34&label=Profile%20views&color=0e75b6&style=flat" alt="thien34" /> </p>
+<br>
+
 <h2 align="center"> 📫 How to reach me: </h2>
 <p align="center">
   <a href="https://linkedin.com/in/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien34" height="30" width="40" /></a>
@@ -57,17 +60,9 @@
   </tr>
 </table>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/fghfh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-<a href="https://www.ko-fi.com/dsf"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
-
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="100%" height="150" alt="thien34" />
 </a>
-<br>
-
-# Certificates
