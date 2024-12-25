@@ -66,3 +66,9 @@
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="100%" height="150" alt="thien34" />
 </a>
+
+<!-- cat -->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+</p>
+
