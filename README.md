@@ -46,19 +46,12 @@
 
 ## Activities
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/thien34" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien34&langs_count=5&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages" width="100%" alt="Top Languages" /></a>
-      <a href="http://www.github.com/thien34"><img src="https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true" width="100%" alt="thien34's GitHub stats" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/thien34/vistore-frontend"><img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=thien34&repo=vistore-frontend&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en" /></a>
-      <a href="https://github.com/thien34/vistore-client-frontend"><img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=thien34&repo=vistore-client-frontend&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en" /></a>
-      <a href="https://github.com/thien34/vistore-backend"><img width="80%" src="https://github-readme-stats.vercel.app/api/pin/?username=thien34&repo=vistore-backend&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en" /></a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thien34&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/thien34)
+[![thien34's GitHub stats](https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/thien34)
+
+</div>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
