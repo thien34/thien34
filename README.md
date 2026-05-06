@@ -3,11 +3,15 @@
 <!-- Animated typing header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Duy+Khanh+%F0%9F%91%8B;Middle+Software+Developer;Full-Stack+%7C+Java+%7C+TypeScript;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=thien34&label=Profile+Views&color=3382ed&style=for-the-badge" alt="Profile Views" />
+[![Visitor Count](https://count.getloli.com/@thien34?name=thien34&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)](https://github.com/thien34)
+
+<br/><br/>
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/thien34)
 &nbsp;
-<a href="https://linkedin.com/in/thien34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/thien34)
 &nbsp;
-<a href="https://fb.com/thien34"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://fb.com/thien34)
 
 </div>
 
