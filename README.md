@@ -11,8 +11,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 ```ts
@@ -29,39 +27,27 @@ const duykhanh = {
 - 💬 &nbsp; Ask me about **Java, Spring Boot, TypeScript, Next.js**
 - ⚡ &nbsp; Fun fact: I love solving puzzles and coding challenges
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,java,mysql)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 **Backend & Database**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=spring,postgres,mongodb)](https://skillicons.dev)
 
 **DevOps & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,figma,github,vscode,postman)](https://skillicons.dev)
 
 </div>
-
----
 
 ## 📊 GitHub Activity
 
@@ -79,8 +65,6 @@ const duykhanh = {
 
 </div>
 
----
-
 ## 💬 Favorite Quote
 
 <div align="center">
@@ -90,8 +74,6 @@ const duykhanh = {
 > — **John Johnson**
 
 </div>
-
----
 
 <div align="center">
 
