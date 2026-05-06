@@ -13,10 +13,12 @@
 <br>
 
 <h2 align="center"> 📫 How to reach me: </h2>
-<p align="center">
-  <a href="https://linkedin.com/in/thien34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;
-  <a href="https://fb.com/thien34" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-</p>
+<div align="center">
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />](https://linkedin.com/in/thien34)&nbsp;
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />](https://fb.com/thien34)
+
+</div>
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
