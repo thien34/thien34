@@ -13,7 +13,10 @@
 <br>
 
 <h2 align="center"> 📫 How to reach me: </h2>
-<p align="center"><a href="https://linkedin.com/in/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thien34" height="30" width="40" /></a><a href="https://fb.com/thien34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thien34" height="30" width="40" /></a><a href="https://luoi.dev" target="blank" style="text-decoration:none;margin-left:8px;">🌐 luoi.dev</a></p>
+<p align="center">
+  <a href="https://linkedin.com/in/thien34"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://fb.com/thien34"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
 <br>
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
