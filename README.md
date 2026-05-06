@@ -1,56 +1,102 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Duy Khanh</h1>
-<p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
-</p>
-
-- ✍ I'm a middle software developer at **[Vietnam]**
-- 🌱 Currently learning **Cloud Computing & System Design**
-- ⚡ Fun fact: I love solving puzzles and coding challenges.
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thien34&label=Profile%20views&color=0e75b6&style=flat" alt="thien34" /> </p>
-<br>
-
-<h2 align="center"> 📫 How to reach me: </h2>
 <div align="center">
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30" />](https://linkedin.com/in/thien34)&nbsp;
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="30" />](https://fb.com/thien34)
+<!-- Animated typing header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3382ED&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Duy+Khanh+%F0%9F%91%8B;Middle+Software+Developer;Full-Stack+%7C+Java+%7C+TypeScript;Always+learning%2C+always+building...)](https://git.io/typing-svg)
 
-</div>
-<br>
-<h2 align="center">Languages and Tools:</h2>
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="mssql" /></a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="36" height="36" alt="spring" /></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="figma" /></a>
-</p>
-
-## Activities
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thien34&langs_count=3&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&locale=en&custom_title=Top%20%Languages)](https://github.com/thien34)
-[![thien34's GitHub stats](https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&hide=contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=false&show_icons=true)](http://www.github.com/thien34)
+<img src="https://komarev.com/ghpvc/?username=thien34&label=Profile+Views&color=3382ed&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://linkedin.com/in/thien34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://fb.com/thien34"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
 
-<br>
-<h2 align="center">📑 My Favorites Quote 📑</h2>
-<br>
-<a href="#" target="_blank">
-  <img src="svg/khanhdev-quotes.svg" width="100%" height="150" alt="thien34" />
-</a>
+---
 
-<!-- cat -->
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</p>
+## 🧑‍💻 About Me
+
+```ts
+const duykhanh = {
+  location:  "Vietnam 🇻🇳",
+  role:      "Middle Software Developer",
+  learning:  ["Cloud Computing", "System Design"],
+  funFact:   "I love solving puzzles and coding challenges 🧩",
+};
+```
+
+- 🔭 &nbsp; Currently building full-stack web applications
+- 🌱 &nbsp; Deepening knowledge in **Cloud Computing** & **System Design**
+- 💬 &nbsp; Ask me about **Java, Spring Boot, TypeScript, Next.js**
+- ⚡ &nbsp; Fun fact: I love solving puzzles and coding challenges
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&count_private=true&hide=contribs&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&show_icons=true" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thien34&langs_count=6&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=thien34&theme=dark&hide_border=true&ring=3382ed&fire=3382ed&currStreakLabel=3382ed&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 💬 Favorite Quote
+
+<div align="center">
+
+> *"First, solve the problem. Then, write the code."*
+>
+> — **John Johnson**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" alt="coding cat" />
+
+*Thanks for visiting! Let's connect and build something awesome together.* 🚀
+
+</div>
