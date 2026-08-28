@@ -53,17 +53,6 @@ const duykhanh = {
 
 </div>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thien34&show_icons=true&count_private=true&hide=contribs&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&cache_seconds=86400)](https://github.com/thien34)
-&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thien34&langs_count=6&title_color=3382ed&text_color=c9d1d9&icon_color=3382ed&bg_color=0d1117&hide_border=true&layout=compact&cache_seconds=86400)](https://github.com/thien34)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=thien34&theme=dark&hide_border=true&ring=3382ed&fire=3382ed&currStreakLabel=3382ed&background=0D1117)](https://git.io/streak-stats)
-
-</div>
 
 ## 💬 Favorite Quote
 
